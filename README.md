@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @caue96
+- 👋 Hi, I’m [Cauê](https://github.com/caue96)
 - 👀 I’m interested in projects related with BI, ML and AI
 - 🌱 I’m currently learning PowerBI, JavaScript, TypeScript, Python, PyTorch and TensorFlow
 - 💞️ I’m looking to collaborate on projects related with BI, ML and AI
